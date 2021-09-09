@@ -1,6 +1,6 @@
 # Webpack Starter
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este es el proyecto inicial para crear aplicaciones utilizando webpack con callbacks y promesas.
 
 ### Notas:
 Recuerden reconstruir los módulos de Node
